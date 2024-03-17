@@ -1,5 +1,8 @@
+.navbar-brand{
+    margin-left: 400px;
+}
 .navbar-nav{
-    margin-left: 650px;
+    margin-left: 400px;
 }
 .services{
     margin-left: 50px;
@@ -11,5 +14,8 @@
     margin-left: 50px;
 }
 .contact{
+    margin-left: 50px;
+}
+.login{
     margin-left: 50px;
 }

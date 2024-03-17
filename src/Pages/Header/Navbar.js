@@ -18,6 +18,7 @@ const Navbar = () => {
         <Link className='experiences' to="/experiences">Experinces</Link>
         <Link className='about' to="/about">About</Link>
         <Link className='contact' to="/contact">Contact</Link>
+        <Link className='login' to='/login'>SignIn</Link>
       </div>
     </div>
   </div>

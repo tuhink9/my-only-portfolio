@@ -1,8 +1,9 @@
 import React from 'react';
+import './Home.css';
 
 const Home = () => {
     return (
-        <div>
+        <div className='mainHome'>
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">

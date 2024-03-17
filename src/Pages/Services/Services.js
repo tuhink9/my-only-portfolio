@@ -1,8 +1,9 @@
 import React from 'react';
+import './Services.css';
 
 const Services = () => {
     return (
-        <div>
+        <div className='mainServices'>
             <div class="card" style={{width: '18rem'}}>
   <img src="..." class="card-img-top" alt="..."/>
   <div class="card-body">
